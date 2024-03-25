@@ -1,4 +1,4 @@
-# [ArthurHue11] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif
+# [ArthurHue11] Assets/powerup.gif
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
